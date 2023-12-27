@@ -6,6 +6,7 @@
 
 <p align="left"> 
   Sou desenvolvedor <strong>front-end</strong>.
+  
 
 Formado em Análise e Desenvolvimento de Sistemas, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor no meu trabalho e por meio de projetos. 
 
