@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou desenvolvedor <strong>front-end</strong>.
+  Sou desenvolvedor <strong>full-stack js</strong>.
   
 
 Formado em Análise e Desenvolvimento de Sistemas, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor no meu trabalho e por meio de projetos. 
