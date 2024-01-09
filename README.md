@@ -9,6 +9,7 @@
 <p align="left"> 
   Sou desenvolvedor <strong>full-stack js</strong>.
   
+  
 Formado em Análise e Desenvolvimento de Sistemas, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor no meu trabalho e por meio de projetos.  
  
 
