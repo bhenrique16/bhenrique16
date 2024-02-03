@@ -7,6 +7,7 @@
 
 
 <p align="left"> 
+  
   Sou desenvolvedor <strong>front-end </strong>.
   
   
