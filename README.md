@@ -14,7 +14,7 @@
 
 
   
-  Sou desenvolvedor <strong>front-end </strong>.
+  Sou desenvolvedor <strong>javascript </strong>.
   
   
 Formado em Análise e Desenvolvimento de Sistemas, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor no meu trabalho e por meio de projetos.  
